@@ -92,6 +92,20 @@ img {
   background: linear-gradient(to bottom left, #32de84 40%, #959c6b 100%);
 }
 
+.leg-title {
+  background: linear-gradient(to bottom left, #153a27 40%, #0d0e0c 100%);
+  padding: 1rem;
+  height: 100%;
+}
+.legendary {
+  color: rgb(230, 202, 47);
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: capitalize;
+  margin: 0px;
+}
+
 .card_title {
   color: #000000;
   font-size: 1.1rem;
