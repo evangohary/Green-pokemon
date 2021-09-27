@@ -130,8 +130,8 @@ body {
 }
 
 .leg-card :hover {
-  -webkit-transform: scale(1.1);
-          transform: scale(1.1);
+  -webkit-transform: scale(1.15);
+          transform: scale(1.15);
 }
 
 @media only screen and (max-width: 53.125em) {
